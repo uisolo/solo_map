@@ -6,5 +6,5 @@ package com.solo.map;
 public class MT
 {
     String s;
-
+    String gg;
 }
