@@ -1,7 +1,7 @@
 package com.solo.map;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -24,7 +24,7 @@ import com.baidu.mapapi.map.MyLocationData;
 import com.baidu.mapapi.model.LatLng;
 
 
-public class MainActivity extends ActionBarActivity
+public class MainActivity extends AppCompatActivity
 {
 
     MapView mMapView = null;
